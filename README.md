@@ -12,5 +12,6 @@ Hi, I'm MattiYZ! I'm passionate about computer science, software, and hardware.
 
 🌐 Connect with me:
 
-• 🌐 My Website: https://visionary-travesseiro-c4a70c.netlify.app
+• 🌐 My Website: https://mattiyz.altervista.org/chi-sono/
 • ✉️ Contact: mattiyz.tech@tiscali.it
+• ✉️ Contact: t.me/mattizyyy
