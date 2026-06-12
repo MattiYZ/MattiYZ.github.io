@@ -12,5 +12,4 @@ Hi, I'm MattiYZ! I'm passionate about computer science, software, and hardware.
 • 🤖 Tinkering: Bash scripts and advanced customization.
 
 🌐 Connect with me:
-• 🖥️ Website: https://mattiyz.altervista.org
 • ✉️ Contact: mattiyz.tech@tiscali.it
