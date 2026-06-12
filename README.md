@@ -1,6 +1,6 @@
 # MattiYZ.github.io
 MattiYZ personal space and tech projects.
-MattiYZ personal space and tech projects.
+
 
 🛠️ MattiYZ | Fedora Lab
 
