@@ -1,10 +1,16 @@
 # MattiYZ.github.io
 MattiYZ personal space and tech projects.
-# 🛠️ MattiYZ | Fedora Lab
+MattiYZ personal space and tech projects.
 
-Ciao, sono MattiYZ! Sono un appassionato di informatica, software e hardware.
+🛠️ MattiYZ | Fedora Lab
 
-### 🚀 Cosa faccio sul PC:
-* 🔵 **Fedora:** Configurazione del sistema e modding.
-* 💻 **Hardware:** Assemblaggio, upgrade e riparazione PC.
-* 🤖 **Smanettamento:** Script in Bash e personalizzazione avanzata.
+Hi, I'm MattiYZ! I'm passionate about computer science, software, and hardware.
+
+🚀 What I do on PC:
+• 🔵 Fedora: System configuration and modding.
+• 💻 Hardware: PC building, upgrading, and repair.
+• 🤖 Tinkering: Bash scripts and advanced customization.
+
+🌐 Connect with me:
+• 🖥️ Website: https://mattiyz.altervista.org
+• ✉️ Contact: mattiyz.tech@tiscali.it
